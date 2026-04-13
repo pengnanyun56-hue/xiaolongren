@@ -1,0 +1,6 @@
+.env
+.env.local
+node_modules/
+# Other sensitive files
+*.secret
+*.key
